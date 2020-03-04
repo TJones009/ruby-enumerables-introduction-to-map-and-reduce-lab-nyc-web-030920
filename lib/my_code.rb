@@ -45,11 +45,14 @@ end
   
   
 def reduce_to_total(array, starting_point)
-new = starting_point
-i = 0
+  new = starting_point
+  i = 0
 
-while i < array.length do
-  
+  while i < array.length do
+    new += array[i]
+    i += 1
+  end
+  new
 end
   
   
