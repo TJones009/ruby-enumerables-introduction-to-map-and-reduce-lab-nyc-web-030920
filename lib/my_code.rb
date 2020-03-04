@@ -10,4 +10,4 @@ def map_to_negativize(array)
   new_array
 end
 
-def 
+def map_to_no_change(array)
