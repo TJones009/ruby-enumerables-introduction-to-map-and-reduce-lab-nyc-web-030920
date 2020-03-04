@@ -1,2 +1,4 @@
 # My Code here....
-def map_to_negative
+def map_to_negativize(array)
+  
+end
