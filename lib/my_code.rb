@@ -52,7 +52,7 @@ def reduce_to_total(array, starting_point=0)
     x += array[i]
     i += 1
   end
-  new
+  x
 end
   
   
